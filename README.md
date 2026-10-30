@@ -6,15 +6,16 @@
 ![](https://www.codewars.com/users/Japoivvb/badges/large)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Japoivvb&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Japoivvb&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Japoivvb&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- Tarjetas de estadísticas de GitHub -->
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Japoivvb&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<!-- Tarjeta de racha continua -->
+<p align="center">
+  <a href="https://github.com/Japoivvb">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Japoivvb&theme=dark&background=030805&ring=10b981&fire=10b981&currStreakLabel=38bdf8&sideNums=38bdf8&currStreakNum=10b981&dates=94a3b8&sideLabels=10b981&border=163623&mode=weekly" alt="Streak Stats"/>
+  </a>
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Japoivvb&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 ---
 &nbsp; [![](https://visitcount.itsvg.in/api?id=Japoivvb&icon=0&color=0)](https://visitcount.itsvg.in) 
